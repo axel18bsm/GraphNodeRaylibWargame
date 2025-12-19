@@ -18,7 +18,11 @@ Le modele en Pascal pour debuter un wargame.
 <img width="1599" height="1026" alt="image" src="https://github.com/user-attachments/assets/78a95d81-45d3-4e67-befa-f621ef994937" />
 
 
-Les sources python de le editeur
+Les sources python de le editeur : PythonNodeGrapheRaylib.zip
+les sources python du modele wargame sont dans le repertoire principal.
+les sources pascal lazarus sont dans le repertoire Pascal.
+
+Toutes les ources sont à votre disposition.
 
 
 
